@@ -8,7 +8,9 @@
 layout: home
 ---
 
-I'm a research scholar (RSP) at the Future of Humanity Institute at the University of Oxford and a research affiliate at the [Centre for the Study of Existential Risk at the University of Cambridge](https://www.cser.ac.uk/). 
+Welcome. You will find all my work here. 
+
+I'm a research scholar (RSP) at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk/about-fhi/) at the University of Oxford and a research affiliate at the [Centre for the Study of Existential Risk at the University of Cambridge](https://www.cser.ac.uk/). 
 
 From October 2021 onwards I'll be a doctoral student at the Human Information Processing Lab of Professor Chris Summerfield at Oxford. 
 
