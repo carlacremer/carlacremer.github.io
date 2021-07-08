@@ -1,2 +1,0 @@
-# czc.github.io
-test
