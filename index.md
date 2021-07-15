@@ -2,13 +2,13 @@
 layout: home
 ---
 
-Welcome. You will find all my work here. 
+Welcome. You can find all my work here. 
 
-I'm a research scholar (RSP) at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk/about-fhi/) at the University of Oxford and a research affiliate at the [Centre for the Study of Existential Risk at the University of Cambridge](https://www.cser.ac.uk/). 
+I'm a research scholar (RSP) at the [Future of Humanity Institute](https://www.fhi.ox.ac.uk/about-fhi/) at the University of Oxford and a research affiliate at the [Centre for the Study of Existential Risk](https://www.cser.ac.uk/) at the University of Cambridge. 
 
-From October 2021 onwards I'll be a doctoral student at the [Human Information Processing Lab](https://humaninformationprocessing.com/) of Professor Chris Summerfield at Oxford. 
+From October 2021 onwards I'll be an [FHI DPhil scholar](https://www.fhi.ox.ac.uk/dphils/), working in the [Human Information Processing Lab](https://humaninformationprocessing.com/) of Professor Chris Summerfield at Oxford. 
 
-Keywords that describe my research interests: *existential risk, global catastrophic risk, deep learning, computational neuroscience, technology assessments*
+Keywords that describe my research interests: *existential risk, global catastrophic risk, deep learning, computational neuroscience, democratic technology assessments*
 
 **My academic research**
 
@@ -22,4 +22,4 @@ Critique of Effective Altruism - [Objections to Value Alignment](https://forum.e
 
 [Advice to UN High-level Panel on Digital Cooperation](https://www.cser.ac.uk/news/advice-un-high-level-panel-digital-cooperation/) co-authored with Dr Luke Kemp, Peter Cihon, Matthijs Michiel Maas, Haydn Belfield, Dr Seán Ó hÉigeartaigh, Jade Leung 
 
-Contributions to report on [Tackling threats to informed decision-making in democratic societies](https://www.turing.ac.uk/research/publications/tackling-threats-informed-decision-making-democratic-societies)
+Contributions to report on [Tackling threats to informed decision-making in democratic societies.](https://www.turing.ac.uk/research/publications/tackling-threats-informed-decision-making-democratic-societies)
