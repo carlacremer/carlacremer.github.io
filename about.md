@@ -8,4 +8,4 @@ I’m a research scholar (RSP) at the Future of Humanity Institute at the Univer
 
 From October 2021 onwards I’ll be an FHI DPhil scholar, working in the Human Information Processing Lab of Professor Chris Summerfield at Oxford.
 
-Keywords that describe my research interests: existential risk, global catastrophic risk, deep learning, computational neuroscience, democratic technology assessments
+I was educated in Bristol, Munich and Zurich, trained in labs like [this](https://www.ini.uzh.ch/en/research/groups/zfinch.html) and [this](https://cogneuro.bio.lmu.de/) one. 
