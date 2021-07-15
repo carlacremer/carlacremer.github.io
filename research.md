@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Research
-permalink: /about/
+permalink: /research/
 ---
 keywords
