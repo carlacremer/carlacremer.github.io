@@ -6,7 +6,7 @@ categories: misc
 
 *written by Carla Zoe Cremer, illustrated by Magdalena Adomeit*
 
-![image](Fungi1_Spores_130721.jpg)
+![image](https://github.com/carlacremer/carlacremer.github.io/blob/main/Fungi1_Spores_130721.jpg)
 
 Merlin Sheldrake’s book [Entangled Life](https://www.merlinsheldrake.com/entangled-life), has much to teach us about existential resilience, conservation and the climate crisis. The world of fungi guards the secrets of longterm survival. But the principles which underlie their resilience extends much beyond the kingdom of fungi into lessons about the persistence of life. 
 
@@ -110,7 +110,7 @@ Apart from my scepticism that we can replicate and revive whole ecosystems and t
 
 Where is the efficiency in that?
 
-[Image 2](Fungi3_Irrational_130721.jpg)
+![Image 2](https://github.com/carlacremer/carlacremer.github.io/tree/main/_images)
 
 
 Fungi could reduce pollution, atomic waste, bio-diversity loss, toxins, mental illness… they could contribute to resilient agriculture, space travel, bio-engineered materials…the list goes on and is yet incomplete. ‘Dark Life’ is ripe with fruitful tech: picking it is a matter of choice and funding. 
@@ -136,6 +136,6 @@ Such case studies might lead us to re-examine the origins of anthropogenic risk 
 
 *In conclusion*
 
-[Image 3](/Users/carlazoecremer/Documents/My Journal Articles/Fungi2_PiecesofAI_130721.jpg)
+[Image 3](https://github.com/carlacremer/carlacremer.github.io/blob/main/_images/Fungi2_PiecesofAI_130721.jpg)
 
 Fungi are impressive, significantly under-explored and could be the solution to many issues. Thinking about them brings joy and challenges notions of resilience, species extinction and preservation. We should consider investing into more neglected research in this area. 
