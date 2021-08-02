@@ -10,7 +10,7 @@ categories: misc
 
 Merlin Sheldrake’s book [Entangled Life](https://www.merlinsheldrake.com/entangled-life), has much to teach us about existential resilience, conservation and the climate crisis. The world of fungi guards the secrets of longterm survival. But the principles which underlie their resilience extends much beyond the kingdom of fungi into lessons about the persistence of life. 
 
-#### In Sum
+### In Sum
 
 *The ubiquity of symbiosis questions whether the prevention of our extinction can be accomplished by saving the human species alone. Avoiding extinction and existential risk appears inextricably entangled with the survival of a sizable number of other species, many of which we have yet to identify.* 
 
@@ -37,7 +37,7 @@ According to computational models, the symbiotic efficiency between plants and f
 
 We’re only beginning to understand the role of fungi in forests. The speed of forest movement depends in parts on the efficiency of their relationship to mycorrhiza. Fungi drive evolutionary variety and allow organic growth in areas that would otherwise be too hostile. The ecosystem services we derive from forests, depend vitally on the health of fungi-infused soil. Today, more than 90% of plants rely on mycorrhiza for their nutrients and information flows. Some plants cannot survive without them, which questions the very idea of separable species. In essence, fungi build trading networks for organisms in the forest, providing fertile ground for studying inequality, cooperation or defection in natural markets. 
 
-#### Impressive Use cases of Fungi
+### Impressive Use cases of Fungi
 
 *Medication:* The genus homo has long been using fungi for medicinal purposes. Most recently, humans started using penicillin, cyclosporin (used for organ transplants) and psilocybin. How many medications remain undiscovered, considering how many fungi species are still unknown?
 
@@ -71,9 +71,9 @@ The company *CoRenewal* uses fungi to eliminate toxins associated with oil extra
 
 *Medicinal Psychedelics:* LDS and psilocybin are derived from fungi and have a long tradition of being digested by humans. They are now being investigated for their therapeutic effects on mental illness. 
 
-#### Fungi and Existential Risk
+### Fungi and Existential Risk
 
-##### Surviving Alone
+#### Surviving Alone
 
 Human survival and flourishing never relied on human DNA alone. Though human extinction surely is the loss of our DNA, we will need to think beyond our gene code to prevent it. The number of microbes we carry (ca. 40 trillion) plausibly exceeds the number of our human cells. Our ecosystem of microbes is integral to our minds, immune function, cell function and growth. There are an unfathomable number of individuals that make us the individual we think we are. Bacteria can further host viruses, and they too affect the function of bacteria in our body. 
 
@@ -92,7 +92,7 @@ It was a symbiotic relationship between algae and fungi that allowed plants to m
 
 Over the long run, humans could witness how new, unimaginable and precious life forms emerge. Symbiosis will play a role. It seems short-sightedly unwise to gamble with the extinction of current species, species which could be the foundation of a radically better and more spacious future life. 
 
-##### Anti-Fragility
+#### Anti-Fragility
 
 Mycelium is one of the oldest (2.4 bn yrs) multicellular life forms ever found. Clearly fungi are rather robust. Fungi are adaptable and flexible in form and nutrient requirements. A significant fraction of their resilience can be attributed to their promiscuity in building symbiotic relationship with other organisms. The least we can do is to check whether we can learn lessons about anti-fragility from fungi and see whether they may be applicable to our own species. It would be strategically ill-informed to leave the research on fungal functions untouched and under-funded. 
 
@@ -100,7 +100,7 @@ Mycelium is one of the oldest (2.4 bn yrs) multicellular life forms ever found. 
 
 Sheldrake thinks of long-lived life forms as processes, rather than static entities. Therein lies a crucial lesson: the difference between security and anti-fragility. Permanency is fragile. We cannot afford to desire stability, to fulfil our need to control and secure. Trying to stay the same, in a dynamic, conjunctional environment is wasteful and risky. We should instead balance our form and strengthen our resilience. Humanity too is a process. We should learn to adapt to and absorb shocks.
 
-*Collecting technology*
+#### Collecting technology
 
 I encounter much optimism about global biodiversity loss. Bioengineering, the optimist argues, will let us revive (de-extinct) species, if we retrospectively deem them useful. I wish I was convinced. But instead, this appears overconfident and rushed. 
 
@@ -122,7 +122,7 @@ Indeed, fungal applications, will in most cases likely integrate more safely wit
 
 > ‘Dark Life’ is ripe with fruitful tech: picking it is a matter of choice and funding.
 
-##### Origins of Existential Risk
+#### Origins of Existential Risk
 
 The industrial revolution and its effect on crop yield are generally praised. But the timescales we look at are rather short. Improvements in yield may not ensure food supply longterm. 
 
@@ -136,6 +136,6 @@ Such case studies might lead us to re-examine the origins of anthropogenic risk 
 
 *In conclusion*
 
-[Image 3](Fungi2_PiecesofAI_130721.jpg)
+[Image 3](/Users/carlazoecremer/Documents/My Journal Articles/Fungi2_PiecesofAI_130721.jpg)
 
 Fungi are impressive, significantly under-explored and could be the solution to many issues. Thinking about them brings joy and challenges notions of resilience, species extinction and preservation. We should consider investing into more neglected research in this area. 
