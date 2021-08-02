@@ -3,7 +3,6 @@ layout: post
 title: "Mushroom Thoughts on Existential Risk. No Magic."
 categories: misc
 ---
-### Mushroom Thoughts on Existential Risk. No Magic.
 
 *written by Carla Zoe Cremer, illustrated by Magdalena Adomeit*
 
