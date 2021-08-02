@@ -110,7 +110,7 @@ Apart from my scepticism that we can replicate and revive whole ecosystems and t
 
 Where is the efficiency in that?
 
-![Image 2](https://github.com/carlacremer/carlacremer.github.io/blob/main/_images/Fungi3_Irrational_130721.jpg)
+![Image 2](https://github.com/carlacremer/carlacremer.github.io/blob/main/assets/img/Fungi3_Irrational_130721.jpg)
 
 
 Fungi could reduce pollution, atomic waste, bio-diversity loss, toxins, mental illness… they could contribute to resilient agriculture, space travel, bio-engineered materials…the list goes on and is yet incomplete. ‘Dark Life’ is ripe with fruitful tech: picking it is a matter of choice and funding. 
