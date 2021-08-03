@@ -111,7 +111,7 @@ Apart from my scepticism that we can replicate and revive whole ecosystems and t
 
 Where is the efficiency in that?
 
-![Image 2](https://github.com/carlacremer/carlacremer.github.io/blob/main/assets/img/Fungi3_Irrational_130721.jpg)
+![Image 2](/Fungi3_Irrational_130721.jpg)
 
 
 Fungi could reduce pollution, atomic waste, bio-diversity loss, toxins, mental illness… they could contribute to resilient agriculture, space travel, bio-engineered materials…the list goes on and is yet incomplete. ‘Dark Life’ is ripe with fruitful tech: picking it is a matter of choice and funding. 
@@ -137,6 +137,6 @@ Such case studies might lead us to re-examine the origins of anthropogenic risk 
 
 *In conclusion*
 
-![Image 3](https://github.com/carlacremer/carlacremer.github.io/blob/main/_images/Fungi2_PiecesofAI_130721.jpg)
+![Image 3](/Fungi2_PiecesofAI_130721.jpg)
 
 Fungi are impressive, significantly under-explored and could be the solution to many issues. Thinking about them brings joy and challenges notions of resilience, species extinction and preservation. We should consider investing into more neglected research in this area. 
