@@ -7,7 +7,7 @@ categories: misc
 *written by Carla Zoe Cremer, illustrated by Magdalena Adomeit*
 
 
-![fungi one!](https://github.com/carlacremer/carlacremer.github.io/blob/main/Fungi1_Spores_130721.jpg)
+![image](/Fungi1_Spores_130721.jpg)
 
 Merlin Sheldrake’s book [Entangled Life](https://www.merlinsheldrake.com/entangled-life), has much to teach us about existential resilience, conservation and the climate crisis. The world of fungi guards the secrets of longterm survival. But the principles which underlie their resilience extends much beyond the kingdom of fungi into lessons about the persistence of life. 
 
