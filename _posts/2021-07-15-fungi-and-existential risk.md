@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Mushroom Thoughts on Existential Risk. No Magic."
+title: "Mushroom Thought on Existential Risk. No Magic."
 categories: misc
 ---
 
 *written by Carla Zoe Cremer, illustrated by Magdalena Adomeit*
 
-![image](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+Images
+
+![a gif!](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 Merlin Sheldrake’s book [Entangled Life](https://www.merlinsheldrake.com/entangled-life), has much to teach us about existential resilience, conservation and the climate crisis. The world of fungi guards the secrets of longterm survival. But the principles which underlie their resilience extends much beyond the kingdom of fungi into lessons about the persistence of life. 
 
