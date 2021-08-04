@@ -38,7 +38,7 @@ According to computational models, the symbiotic efficiency between plants and f
 
 We’re only beginning to understand the role of fungi in forests. The speed of forest movement depends in parts on the efficiency of their relationship to mycorrhiza. Fungi drive evolutionary variety and allow organic growth in areas that would otherwise be too hostile. The ecosystem services we derive from forests, depend vitally on the health of fungi-infused soil. Today, more than 90% of plants rely on mycorrhiza for their nutrients and information flows. Some plants cannot survive without them, which questions the very idea of separable species. In essence, fungi build trading networks for organisms in the forest, providing fertile ground for studying inequality, cooperation or defection in natural markets. 
 
-### Impressive Use cases of Fungi
+### Impressive Applications of Fungi
 
 *Medication:* The genus homo has long been using fungi for medicinal purposes. Most recently, humans started using penicillin, cyclosporin (used for organ transplants) and psilocybin. How many medications remain undiscovered, considering how many fungi species are still unknown?
 
@@ -97,11 +97,11 @@ Over the long run, humans could witness how new, unimaginable and precious life 
 
 Mycelium is one of the oldest (2.4 bn yrs) multicellular life forms ever found. Clearly fungi are rather robust. Fungi are adaptable and flexible in form and nutrient requirements. A significant fraction of their resilience can be attributed to their promiscuity in building symbiotic relationship with other organisms. The least we can do is to check whether we can learn lessons about anti-fragility from fungi and see whether they may be applicable to our own species. It would be strategically ill-informed to leave the research on fungal functions untouched and under-funded. 
 
-> Permanency is fragile. 
+> Permanence is fragile. 
 
-Sheldrake thinks of long-lived life forms as processes, rather than static entities. Therein lies a crucial lesson: the difference between security and anti-fragility. Permanency is fragile. We cannot afford to desire stability, to fulfil our need to control and secure. Trying to stay the same, in a dynamic, conjunctional environment is wasteful and risky. We should instead balance our form and strengthen our resilience. Humanity too is a process. We should learn to adapt to and absorb shocks.
+Sheldrake thinks of long-lived life forms as processes, rather than static entities. Therein lies a crucial lesson: the difference between security and anti-fragility. Permanence is fragile. We cannot afford to desire stability, to fulfil our need to control and secure. Trying to stay the same, in a dynamic, conjunctional environment is wasteful and risky. We should instead balance our form and strengthen our resilience. Humanity too is a process. We should learn to adapt to and absorb shocks.
 
-#### Collecting technology
+#### Collecting Technology
 
 I encounter much optimism about global biodiversity loss. Bioengineering, the optimist argues, will let us revive (de-extinct) species, if we retrospectively deem them useful. I wish I was convinced. But instead, this appears overconfident and rushed. 
 
@@ -135,7 +135,7 @@ From a perspective of a longtermist, this case study is an emblematic story of h
 
 Such case studies might lead us to re-examine the origins of anthropogenic risk to our longterm flourishing. Longtermists must think more thoroughly longterm. We must consider whether what looks like an arch of progress over decades, could turn out to have been a mere depletion of resilience and thus a shift of the risk-distribution. Improvements in quantity of anything must come from somewhere, and we better make sure they don’t derive from the buffers we need in tougher times. 
 
-*In conclusion*
+*In Conclusion*
 
 ![Image 3](/Fungi2_PiecesofAI_130721.jpg)
 
