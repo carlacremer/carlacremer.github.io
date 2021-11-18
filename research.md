@@ -6,7 +6,7 @@ permalink: /research/
 
 #### my research interests - keywords
 
-*computational neuroscience, epistemic risk, distributed algorithmic technology assessments, global catastrophic risk *
+*computational neuroscience, epistemic risk, distributed algorithmic technology assessments, global catastrophic risk
 
 
 
