@@ -5,7 +5,8 @@ permalink: /research/
 ---
 
 #### my research interests - keywords
-*existential risk, global catastrophic risk, deep learning, computational neuroscience, democratic technology assessments, epistemic coordination*
+
+*computational neuroscience, epistemic risk, distributed algorithmic technology assessments, global catastrophic risk *
 
 
 
@@ -24,3 +25,7 @@ Critique of Effective Altruism - [Objections to Value Alignment](https://forum.e
 [Advice to UN High-level Panel on Digital Cooperation](https://www.cser.ac.uk/news/advice-un-high-level-panel-digital-cooperation/) co-authored with Dr Luke Kemp, Peter Cihon, Matthijs Michiel Maas, Haydn Belfield, Dr Seán Ó hÉigeartaigh, Jade Leung 
 
 Contributions to report on [Tackling threats to informed decision-making in democratic societies.](https://www.turing.ac.uk/research/publications/tackling-threats-informed-decision-making-democratic-societies)
+
+#### projects
+
+I run a seminar series on Epistemic Risk: the risk that arises to an agent and a group of agents from having inaccurate representations of the environment.  
