@@ -30,4 +30,4 @@ Contributions to report on [Tackling threats to informed decision-making in demo
 
 #### projects
 
-I run a seminar series on Epistemic Risk: the risk that arises to an agent and a group of agents from having inaccurate representations of the environment.  
+I run a seminar series at Trajan House, in Oxford on Epistemic Risk: the risk that arises to an agent and a group of agents from having inaccurate representations of the environment. Please contact: contact@governance.ai if you're interested in attending. 
