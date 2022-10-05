@@ -1,6 +1,6 @@
 title: Carla Zoe Cremer
 author: Contact
-name: Cambridge Email
+name: Oxford Email
 email: carla.cremer@queens.ox.ac.uk
 description: > # this means to ignore newlines until "show_excerpts:"
 
@@ -51,6 +51,7 @@ minima:
 header_pages:
 - about.md
 - research.md
+- media.md
 
 # Build settings
 theme: minima
