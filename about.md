@@ -10,4 +10,9 @@ Previously, I was a Winter Scholar at the [Centre for the Governance of AI](http
 
 I studied in Bristol, Munich and Zurich, trained in labs like [this](https://www.ini.uzh.ch/en/research/groups/zfinch.html) and [this](https://cogneuro.bio.lmu.de/) one. 
 
-![image](https://user-images.githubusercontent.com/86908811/143228155-733713f8-b379-49ff-85df-98608c2954f8.png)
+![image](assets/img/F8605DBE-D37C-42CF-A428-15DD1981E23F.JPG)
+
+![image](assets/img/IMG_2609.JPG)
+
+These drawings of me are playful creations by humans and algorithms; namely Magdalena Adomeit, Lars Laichter and DALL-E. 
+
