@@ -33,6 +33,9 @@ Contributions to report on [Tackling threats to informed decision-making in demo
 
 Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of extinction risk and existential ethics, power and effective altruism](https://youtu.be/vL1LmW_FJkI)
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vL1LmW_FJkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 #### projects
