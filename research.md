@@ -28,6 +28,11 @@ Critique of Effective Altruism - [Objections to Value Alignment](https://forum.e
 
 Contributions to report on [Tackling threats to informed decision-making in democratic societies.](https://www.turing.ac.uk/research/publications/tackling-threats-informed-decision-making-democratic-societies)
 
+
+#### media
+
+Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of extinction risk and existential ethics, power and effective altruism](https://www.youtube.com/watch?v=vL1LmW_FJkI&t=1313s)
+
 #### projects
 
 I run a seminar series at Trajan House, in Oxford on Epistemic Risk: the risk that arises to an agent and a group of agents from having inaccurate representations of the environment. Please contact: contact@governance.ai if you're interested in attending. 
