@@ -38,6 +38,6 @@ Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of ext
 
 #### misc
 
-I founded [ZAIA, The Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group) reading group, together with Matthew Raatz, mentored in reserach fellowships like [Tianxia](https://www.tian-xia.com/), have given talks for e.g. the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and consulted organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or [Cooperative AI Foundation](https://www.cooperativeai.com/)
+I founded [ZAIA, The Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group) reading group, together with Matthew Raatz, mentored in reserach fellowships like [Tianxia](https://www.tian-xia.com/), have given talks for e.g. the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and consulted organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or the [Cooperative AI Foundation](https://www.cooperativeai.com/)
 
 
