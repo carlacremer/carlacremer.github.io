@@ -35,6 +35,16 @@ Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of ext
 
 [![Podcast](https://img.youtube.com/vi/vL1LmW_FJkI/0.jpg)](https://www.youtube.com/watch?v=vL1LmW_FJkI)
 
+[future of life](https://futureoflife.org/person/carla-zoe-cremer/)
+
+##### public outreach : criticism of EA
+
+[1843 Magazin - The Economist](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
+
+[The New Yorker](https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism); also follow-up [here](https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity)
+
+[The Washington Post](https://t.co/V2G4IgbxEk](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/)
+
 
 #### misc
 
