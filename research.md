@@ -36,6 +36,8 @@ Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of ext
 [![Podcast](https://img.youtube.com/vi/vL1LmW_FJkI/0.jpg)](https://www.youtube.com/watch?v=vL1LmW_FJkI)
 
 
-#### projects
+#### misc
 
-I run a seminar series at Trajan House, in Oxford on Epistemic Risk: the risk that arises to an agent and a group of agents from having inaccurate representations of the environment. Please contact: contact@governance.ai if you're interested in attending. 
+I founded [ZAIA, The Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group) reading group, together with Matthew Raatz, mentored in reserach fellowships like [Tianxia](https://www.tian-xia.com/), have given talks for e.g. the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and consulted organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or [Cooperative AI Foundation](https://www.cooperativeai.com/)
+
+
