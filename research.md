@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 ---
 
@@ -20,13 +20,13 @@ permalink: /research/
 
 ##### other writing 
 
-Critique of Effective Altruism - [Objections to Value Alignment](https://forum.effectivealtruism.org/posts/DxfpGi9hwvwLCf5iQ/objections-to-value-alignment-between-effective-altruists), forum prize in July 2020
-
 [Advice to UN High-level Panel on Digital Cooperation](https://www.cser.ac.uk/news/advice-un-high-level-panel-digital-cooperation/) co-authored with Dr Luke Kemp, Peter Cihon, Matthijs Michiel Maas, Haydn Belfield, Dr Seán Ó hÉigeartaigh, Jade Leung 
 
 Contributions to report on [Tackling threats to informed decision-making in democratic societies.](https://www.turing.ac.uk/research/publications/tackling-threats-informed-decision-making-democratic-societies)
 
 Contributions to report on [epistemic security](https://www.turing.ac.uk/sites/default/files/2020-10/epistemic-security-report_final.pdf)
+
+Critique of Effective Altruism - [Objections to Value Alignment](https://forum.effectivealtruism.org/posts/DxfpGi9hwvwLCf5iQ/objections-to-value-alignment-between-effective-altruists), forum prize in July 2020
 
 ##### misc activities | sample 
 
