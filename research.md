@@ -28,21 +28,7 @@ Contributions to report on [Tackling threats to informed decision-making in demo
 
 Contributions to report on [epistemic security](https://www.turing.ac.uk/sites/default/files/2020-10/epistemic-security-report_final.pdf)
 
-##### media
-
-[future of life](https://futureoflife.org/person/carla-zoe-cremer/)
-
-Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of extinction risk and existential ethics, power and effective altruism](https://youtu.be/vL1LmW_FJkI)
-
-##### public outreach : criticism of EA
-
-[1843 Magazin - The Economist](https://www.economist.com/1843/2022/11/15/the-good-delusion-has-effective-altruism-broken-bad)
-
-[The New Yorker](https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism); with follow-up [here](https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity)
-
-[The Washington Post](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/)
-
-##### sample | misc
+##### misc activities | sample 
 
 I founded [ZAIA, The Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group) reading group, together with [Matthew Raatz](http://amid.fish/), mentored in reserach fellowships like [Tianxia](https://www.tian-xia.com/), have given talks for e.g. the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and contributed to organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or the [Cooperative AI Foundation](https://www.cooperativeai.com/)
 
