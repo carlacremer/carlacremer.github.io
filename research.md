@@ -35,8 +35,6 @@ Contributions to report on [Tackling threats to informed decision-making in demo
 
 Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of extinction risk and existential ethics, power and effective altruism](https://youtu.be/vL1LmW_FJkI)
 
-[![Podcast](https://img.youtube.com/vi/vL1LmW_FJkI/0.jpg)](https://www.youtube.com/watch?v=vL1LmW_FJkI)
-
 
 ##### public outreach : criticism of EA
 
@@ -47,8 +45,8 @@ Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of ext
 [The Washington Post](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/)
 
 
-#### misc
+#### sample | misc
 
-I founded [ZAIA, The Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group) reading group, together with Matthew Raatz, mentored in reserach fellowships like [Tianxia](https://www.tian-xia.com/), have given talks for e.g. the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and consulted organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or the [Cooperative AI Foundation](https://www.cooperativeai.com/)
+I founded [ZAIA, The Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group) reading group, together with [Matthew Raatz](http://amid.fish/), mentored in reserach fellowships like [Tianxia](https://www.tian-xia.com/), have given talks for e.g. the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and contributed to organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or the [Cooperative AI Foundation](https://www.cooperativeai.com/)
 
 
