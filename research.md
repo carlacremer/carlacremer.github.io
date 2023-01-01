@@ -37,6 +37,6 @@ Critique of Effective Altruism - [Objections to Value Alignment](https://forum.e
 
 #### misc activities | sample 
 
-I sometimes start projects, like [ZAIA, the Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group), (in 2018 together with [Matthew Raatz](http://amid.fish/)), mentor in reserach fellowships such as e.g. [Tianxia](https://www.tian-xia.com/), give talks for e.g. the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and contribute to or consulte organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or the [Cooperative AI Foundation](https://www.cooperativeai.com/)
+I sometimes start projects, like [ZAIA, the Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group), (in 2018 together with [Matthew Raatz](http://amid.fish/)), mentor in reserach fellowships such as e.g. [Tianxia](https://www.tian-xia.com/), give talks at e.g. the [UK government (DCMS)](https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill) or the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and contribute to or consulte organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or the [Cooperative AI Foundation](https://www.cooperativeai.com/)
 
 
