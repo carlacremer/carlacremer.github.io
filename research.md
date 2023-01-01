@@ -4,11 +4,9 @@ title: Research
 permalink: /research/
 ---
 
-#### my research interests - keywords
+#### research interests | keywords
 
-*computational neuroscience, epistemic risk, distributed algorithmic technology assessments, global catastrophic risk
-
-
+computational neuroscience, epistemic risk, distributed algorithmic technology assessments, global catastrophic risk
 
 #### academic research publications
 
@@ -18,8 +16,6 @@ permalink: /research/
 
 [Artificial Canaries](https://www.ijimai.org/journal/sites/default/files/2021-02/ijimai_6_5_10.pdf) Early Warning Signs for Anticipatory and Democratic Governance of AI, 2021, Cremer and Whittlestone in the International Journal of Interactive Multimedia and Artificial Intelligence and best paper award at [EPAI 2020](https://dmip.webs.upv.es/EPAI2020/).
 
-
-
 #### other writing 
 
 Critique of Effective Altruism - [Objections to Value Alignment](https://forum.effectivealtruism.org/posts/DxfpGi9hwvwLCf5iQ/objections-to-value-alignment-between-effective-altruists), forum prize in July 2020
@@ -28,13 +24,13 @@ Critique of Effective Altruism - [Objections to Value Alignment](https://forum.e
 
 Contributions to report on [Tackling threats to informed decision-making in democratic societies.](https://www.turing.ac.uk/research/publications/tackling-threats-informed-decision-making-democratic-societies)
 
+Contributions to report on [epistemic security](https://www.turing.ac.uk/sites/default/files/2020-10/epistemic-security-report_final.pdf)
 
 #### media
 
 [future of life](https://futureoflife.org/person/carla-zoe-cremer/)
 
 Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of extinction risk and existential ethics, power and effective altruism](https://youtu.be/vL1LmW_FJkI)
-
 
 ##### public outreach : criticism of EA
 
@@ -43,7 +39,6 @@ Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of ext
 [The New Yorker](https://www.newyorker.com/magazine/2022/08/15/the-reluctant-prophet-of-effective-altruism); with follow-up [here](https://www.newyorker.com/news/annals-of-inquiry/sam-bankman-fried-effective-altruism-and-the-question-of-complicity)
 
 [The Washington Post](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/)
-
 
 #### sample | misc
 
