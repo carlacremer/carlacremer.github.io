@@ -6,9 +6,9 @@ permalink: /research/
 
 ##### research interests | keywords
 
-computational cognitive science  | epistemic risk | distributed algorithmic technology assessments 
+###### computational cognitive science  | epistemic risk | distributed algorithmic technology assessments 
 
-global catastrophic risk assessment | foresight 
+###### global catastrophic risk assessment | foresight 
 
 ##### academic research publications
 
