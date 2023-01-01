@@ -4,7 +4,13 @@ title: media | public
 permalink: /media/
 ---
 
-video pod: [politics of extinction risk and existential ethics, power and effective altruism](https://youtu.be/vL1LmW_FJkI)
+##### talks | slides 
+
+[risk and reasoning in online spaces](/assets/DCMS_online_harms_talk_cremer_July_2022.pdf) _ talk for UK Gov DCMS [Committee for Online Harms and Disinformation](https://committees.parliament.uk/work/232/online-harms-and-disinformation/)
+
+##### sound
+
+politics of extinction risk and existential ethics, power and effective altruism _ [video](https://youtu.be/vL1LmW_FJkI) pod
 
 ##### interviewed in | 
 
