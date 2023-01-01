@@ -10,11 +10,15 @@ permalink: /media/
 
 [alternative threat models](/assets/ox_ai_soc_cremer_may_5_22.pdf) of AI risk _ talk for Oxford AI society May 22
 
-##### sound
+&nbsp;
+
+##### sound | visual
 
 politics of extinction risk and existential ethics, power and effective altruism _ [video](https://youtu.be/vL1LmW_FJkI) pod
 
-##### interviewed in | 
+&nbsp;
+
+##### interviews | snippets 
 
 [Future of Life](https://futureoflife.org/person/carla-zoe-cremer/)
  
