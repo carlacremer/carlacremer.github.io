@@ -10,7 +10,8 @@ permalink: /research/
 
 ##### global catastrophic risk assessment | foresight 
 
-------------------------
+
+
 #### academic research publications
 
 [Democratising Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995225) In Search of a Methodology to Study Existential Risk, 2021 preprint in SSRN
