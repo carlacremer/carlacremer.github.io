@@ -3,14 +3,15 @@ layout: page
 title: research
 permalink: /research/
 ---
+&nbsp;
 
-#### research interests 
+#### interest | keywords 
 
 ##### computational cognitive science  | epistemic risk | distributed algorithmic technology assessments 
 
 ##### global catastrophic risk assessment | foresight 
 
-
+&nbsp;
 
 #### academic research publications
 
@@ -19,6 +20,8 @@ permalink: /research/
 [Deep Limitations?](https://link.springer.com/article/10.1007/s13748-021-00239-1) Examining Expert Disagreement over Deep Learning, 2021 Published in Progress in Artificial Intelligence
 
 [Artificial Canaries](https://www.ijimai.org/journal/sites/default/files/2021-02/ijimai_6_5_10.pdf) Early Warning Signs for Anticipatory and Democratic Governance of AI, 2021, Cremer and Whittlestone in the International Journal of Interactive Multimedia and Artificial Intelligence and best paper award at [EPAI 2020](https://dmip.webs.upv.es/EPAI2020/).
+
+&nbsp;
 
 #### other writing 
 
@@ -29,6 +32,8 @@ Contributions to report on [Tackling threats to informed decision-making in demo
 Contributions to report on [epistemic security](https://www.turing.ac.uk/sites/default/files/2020-10/epistemic-security-report_final.pdf)
 
 Critique of Effective Altruism - [Objections to Value Alignment](https://forum.effectivealtruism.org/posts/DxfpGi9hwvwLCf5iQ/objections-to-value-alignment-between-effective-altruists), forum prize in July 2020
+
+&nbsp;
 
 #### misc activities | sample 
 
