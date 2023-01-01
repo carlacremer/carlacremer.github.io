@@ -4,7 +4,7 @@ title: media | public
 permalink: /media/
 ---
 
-##### recent talks | slides 
+#### recent talks | slides 
 
 [risk and reasoning in online spaces](/assets/DCMS_online_harms_talk_cremer_July_2022.pdf) _ talk for UK Gov DCMS [Committee for Online Harms and Disinformation](https://committees.parliament.uk/work/232/online-harms-and-disinformation/) July 22
 
@@ -12,13 +12,13 @@ permalink: /media/
 
 &nbsp;
 
-##### sound | visual
+#### sound | visual
 
 politics of extinction risk and existential ethics, power and effective altruism _ [video](https://youtu.be/vL1LmW_FJkI) pod
 
 &nbsp;
 
-##### interviews | snippets 
+#### interviews | snippets 
 
 [Future of Life](https://futureoflife.org/person/carla-zoe-cremer/)
  
