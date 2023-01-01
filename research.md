@@ -4,11 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-#### research interests | keywords
+##### research interests | keywords
 
-computational neuroscience, epistemic risk, distributed algorithmic technology assessments, global catastrophic risk
+computational cognitive science  | epistemic risk | distributed algorithmic technology assessments 
 
-#### academic research publications
+global catastrophic risk assessment | foresight 
+
+##### academic research publications
 
 [Democratising Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995225) In Search of a Methodology to Study Existential Risk, 2021 preprint in SSRN
 
@@ -16,7 +18,7 @@ computational neuroscience, epistemic risk, distributed algorithmic technology a
 
 [Artificial Canaries](https://www.ijimai.org/journal/sites/default/files/2021-02/ijimai_6_5_10.pdf) Early Warning Signs for Anticipatory and Democratic Governance of AI, 2021, Cremer and Whittlestone in the International Journal of Interactive Multimedia and Artificial Intelligence and best paper award at [EPAI 2020](https://dmip.webs.upv.es/EPAI2020/).
 
-#### other writing 
+##### other writing 
 
 Critique of Effective Altruism - [Objections to Value Alignment](https://forum.effectivealtruism.org/posts/DxfpGi9hwvwLCf5iQ/objections-to-value-alignment-between-effective-altruists), forum prize in July 2020
 
@@ -26,7 +28,7 @@ Contributions to report on [Tackling threats to informed decision-making in demo
 
 Contributions to report on [epistemic security](https://www.turing.ac.uk/sites/default/files/2020-10/epistemic-security-report_final.pdf)
 
-#### media
+##### media
 
 [future of life](https://futureoflife.org/person/carla-zoe-cremer/)
 
@@ -40,7 +42,7 @@ Video Podcast: Interviewed by Sanat Singhal on matters like the [politics of ext
 
 [The Washington Post](https://www.washingtonpost.com/technology/2022/11/17/effective-altruism-sam-bankman-fried-ftx-crypto/)
 
-#### sample | misc
+##### sample | misc
 
 I founded [ZAIA, The Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group) reading group, together with [Matthew Raatz](http://amid.fish/), mentored in reserach fellowships like [Tianxia](https://www.tian-xia.com/), have given talks for e.g. the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and contributed to organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or the [Cooperative AI Foundation](https://www.cooperativeai.com/)
 
