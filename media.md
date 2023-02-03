@@ -22,7 +22,9 @@ politics of extinction risk and existential ethics, power and effective altruism
 
 &nbsp;
 
-#### interviews | snippets 
+#### interviews | articles 
+
+Vox Future Perfect : [Ignoring Risk & the Risk of Ignorance](https://www.vox.com/future-perfect/23569519/effective-altrusim-sam-bankman-fried-will-macaskill-ea-risk-decentralization-philanthropy)
 
 [Future of Life](https://futureoflife.org/person/carla-zoe-cremer/)
  
