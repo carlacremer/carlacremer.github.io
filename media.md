@@ -16,7 +16,9 @@ permalink: /media/
 
 #### sound | visual
 
-Carla Zoe Cremer and Luke Kemp [critiquesofea.podbean](https://critiquesofea.podbean.com/e/democratizing-risk-and-ea-with-carla-zoe-cremer-and-luke-kemp/)
+Machine Learning Street Talk, with Igor Krawczuk [video](https://t.co/jTZrPVLbjV)
+
+Critiques of EA Podcast, with Luke Kemp [critiquesofea.podbean](https://critiquesofea.podbean.com/e/democratizing-risk-and-ea-with-carla-zoe-cremer-and-luke-kemp/)
 
 politics of extinction risk and existential ethics, power and effective altruism _ [video](https://youtu.be/vL1LmW_FJkI) pod
 
