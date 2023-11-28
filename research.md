@@ -17,6 +17,8 @@ permalink: /research/
 
 [Democratising Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995225) In Search of a Methodology to Study Existential Risk, 2021 preprint in SSRN
 
+Curriculum Effects in 3D Compositional Generalisation [Conference on Computational Cognitive Neuroscience (CCN) 2023](https://2023.ccneuro.org/program.php) - Poster, [here](https://github.com/summerfieldlab/CCN_2023_posters/blob/5661bc27f9421638bec6fb6d37271fadab9c8b82/Cremer_Poster_CCN_23_print.pdf)
+
 [Deep Limitations?](https://link.springer.com/article/10.1007/s13748-021-00239-1) Examining Expert Disagreement over Deep Learning, 2021 Published in Progress in Artificial Intelligence
 
 [Artificial Canaries](https://www.ijimai.org/journal/sites/default/files/2021-02/ijimai_6_5_10.pdf) Early Warning Signs for Anticipatory and Democratic Governance of AI, 2021, Cremer and Whittlestone in the International Journal of Interactive Multimedia and Artificial Intelligence and best paper award at [EPAI 2020](https://dmip.webs.upv.es/EPAI2020/).
