@@ -8,7 +8,7 @@ permalink: /media/
 
 #### recent talks | slides 
 
-[AI and agency ruminations](/assets/agency_ai_queens_18_01_2024.pdf)_ talk for Queen's College, @ AI-QCS | 19 Jan 2024
+[AI and agency ruminations](/assets/agency_ai_queens_18_01_2024.pdf) _ talk for Queen's College, @ AI-QCS 19 Jan 2024
 
 [AI in espionage](/assets/cyber_seminar_ai_espionage_cremer_sharing.pdf)_ talk for Oxford's Changing Character of War Centre (CCW) [Working Group on Cyber Strategy and Technology studies ](https://www.ccw.ox.ac.uk/cyber-strategy-working-group) Nov 15 2023 
 
