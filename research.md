@@ -7,7 +7,7 @@ permalink: /research/
 
 #### interest | keywords 
 
-##### computational cognitive science  | epistemic risk | distributed algorithmic technology assessments 
+##### computational cognitive science  | epistemic risk | democratic technology assessments 
 
 ##### global catastrophic risk assessment | foresight 
 
@@ -39,6 +39,6 @@ Critique of Effective Altruism - [Objections to Value Alignment](https://forum.e
 
 #### misc activities | sample 
 
-I have started projects, like this [journal club on the intersection between cognitive science and AI safety](https://docs.google.com/document/d/1grX6G8oFuQmRMNk3a0sBC9iSE7NMQ2Bbf18xJgUVmZw/edit), or [ZAIA, the Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group), co-run workshops like [Multi-Agent Security: Security as Key to AI Safety at NeurIPS 23](https://neurips.cc/virtual/2023/workshop/66520), mentor in research fellowships such as e.g. [Tianxia](https://www.tian-xia.com/), give talks at e.g. the [UK government (DCMS)](https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill), [MATS](https://www.matsprogram.org/), [CCW Cyber & Technology Strategy Working Group](https://www.ccw.ox.ac.uk/cyber-strategy-working-group) or the [Oxford AI Safety Society](https://twitter.com/OxfordAI/status/1521139105127669761?s=20) and contribute to or consult organisations like [AI Objectives Institute](https://ai.objectives.institute/blog/ai-and-the-transformation-of-capitalism) or the [Cooperative AI Foundation](https://www.cooperativeai.com/).
+I have started projects, like this [journal club on the intersection between cognitive science and AI safety](https://docs.google.com/document/d/1grX6G8oFuQmRMNk3a0sBC9iSE7NMQ2Bbf18xJgUVmZw/edit), or [ZAIA, the Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group), co-run workshops like [Multi-Agent Security: Security as Key to AI Safety at NeurIPS 23](https://neurips.cc/virtual/2023/workshop/66520), give talks at e.g. the [UK government (DCMS)](https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill), or[CCW Cyber & Technology Strategy Working Group](https://www.ccw.ox.ac.uk/cyber-strategy-working-group).
 
 
