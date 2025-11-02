@@ -10,7 +10,7 @@ permalink: /media/
 
 [AI and agency ruminations](/assets/agency_ai_queens_18_01_2024.pdf) _ talk for Queen's College, @ AI-QCS 19 Jan 2024
 
-[AI in espionage](/assets/cyber_seminar_ai_espionage_cremer_sharing.pdf)_ talk for Oxford's Changing Character of War Centre (CCW) [Working Group on Cyber Strategy and Technology studies ](https://www.ccw.ox.ac.uk/cyber-strategy-working-group) Nov 15 2023 
+AI in national security talk for Oxford's Changing Character of War Centre (CCW) [Working Group on Cyber Strategy and Technology studies ](https://www.ccw.ox.ac.uk/cyber-strategy-working-group) Nov 15 2023 
 
 [risk and reasoning in online spaces](/assets/DCMS_online_harms_talk_cremer_July_2022.pdf) _ talk for UK Gov DCMS [Committee for Online Harms and Disinformation](https://committees.parliament.uk/work/232/online-harms-and-disinformation/) July 22
 
@@ -23,8 +23,6 @@ permalink: /media/
 Machine Learning Street Talk, with Igor Krawczuk [video](https://t.co/jTZrPVLbjV)
 
 Critiques of EA Podcast, with Luke Kemp [critiquesofea.podbean](https://critiquesofea.podbean.com/e/democratizing-risk-and-ea-with-carla-zoe-cremer-and-luke-kemp/)
-
-politics of extinction risk and existential ethics, power and effective altruism _ [video](https://youtu.be/vL1LmW_FJkI) pod
 
 &nbsp;
 
