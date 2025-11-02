@@ -15,7 +15,7 @@ permalink: /research/
 
 #### academic research publications
 
-[Democratising Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995225) In Search of a Methodology to Study Existential Risk, 2021 preprint in SSRN
+[Democratising Risk](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3995225) In Search of a Methodology to Study Risk, 2021 preprint in SSRN
 
 Curriculum Effects in 3D Compositional Generalisation [Conference on Computational Cognitive Neuroscience (CCN) 2023](https://2023.ccneuro.org/program.php) - Poster, [here](https://github.com/summerfieldlab/CCN_2023_posters/blob/5661bc27f9421638bec6fb6d37271fadab9c8b82/Cremer_Poster_CCN_23_print.pdf)
 
