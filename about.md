@@ -4,7 +4,7 @@ title: about
 permalink: /about/
 ---
 
-I'm a DPhil student in the [Human Information Processing Lab](https://humaninformationprocessing.com/) of Professor Chris Summerfield at the University of Oxford. 
+I'm a DPhil student in the [Human Information Processing Lab](https://humaninformationprocessing.com/) of Professor Chris Summerfield and Matan Mazor at the University of Oxford. 
 
 Previously, I was a Winter Scholar at the [Centre for the Governance of AI](https://www.governance.ai/), an affiliated researcher at the [Centre for the Study of Existential Risk](https://www.cser.ac.uk/) at the University of Cambridge, a research scholar (RSP) at the FHI in Oxford and a visitor to the [Leverhulme Centre for the Future of Intelligence in Cambridge](http://lcfi.ac.uk/). 
 
