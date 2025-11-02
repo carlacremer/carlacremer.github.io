@@ -5,9 +5,9 @@ permalink: /research/
 ---
 &nbsp;
 
-#### interest | keywords 
+#### interests | keywords 
 
-##### computational cognitive science  | epistemic risk | democratic technology assessments 
+##### computational cognitive science | memory & active learning | self-models | cognitive discovery | epistemic risk | democratic technology assessments 
 
 ##### global catastrophic risk assessment | foresight 
 
