@@ -7,9 +7,8 @@ permalink: /research/
 
 #### interests | keywords 
 
-##### computational cognitive science | memory & active learning | self-models | cognitive discovery | epistemic risk | democratic technology assessments 
+##### computational cognitive science | memory & active learning | self-models | cognitive discovery | epistemic risk | GCR
 
-##### global catastrophic risk assessment | foresight 
 
 &nbsp;
 
@@ -39,6 +38,6 @@ Critique of Effective Altruism - [Objections to Value Alignment](https://forum.e
 
 #### misc activities | sample 
 
-I have started projects, like this [journal club on the intersection between cognitive science and AI safety](https://docs.google.com/document/d/1grX6G8oFuQmRMNk3a0sBC9iSE7NMQ2Bbf18xJgUVmZw/edit), or [ZAIA, the Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group), co-run workshops like [Multi-Agent Security: Security as Key to AI Safety at NeurIPS 23](https://neurips.cc/virtual/2023/workshop/66520), give talks at e.g. the [UK government (DCMS)](https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill), or[CCW Cyber & Technology Strategy Working Group](https://www.ccw.ox.ac.uk/cyber-strategy-working-group).
+I have started projects, like this [journal club on the intersection between cognitive science and AI safety](https://docs.google.com/document/d/1grX6G8oFuQmRMNk3a0sBC9iSE7NMQ2Bbf18xJgUVmZw/edit), or [ZAIA, the Zurich AI Alignment](https://www.zurich-ai-alignment.com/discussion-group), co-run workshops like [Multi-Agent Security: Security as Key to AI Safety at NeurIPS 23](https://neurips.cc/virtual/2023/workshop/66520), give talks at e.g. the [UK government (DCMS)](https://www.gov.uk/guidance/a-guide-to-the-online-safety-bill), or [CCW Cyber & Technology Strategy Working Group](https://www.ccw.ox.ac.uk/cyber-strategy-working-group).
 
 
